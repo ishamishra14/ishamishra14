@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Isha 👋
 
-<!--
-**ishamishra14/ishamishra14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech CSE Student** at Ramgarh Engineering College  
+💻 Passionate about Web Development & Graphic Design  
+🌱 Currently learning **HTML | CSS | JavaScript | Illutrator |Photoshop | Indesign | VideoEditting | MotionGraphics 
+🎯 Aiming to build creative, responsive, and user-friendly designs  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools
+HTML • CSS • JavaScript • Canva • Figma • Adobe • Git • C++
+
+---
+
+### 📂 Featured Projects
+- 🌐 [Personal Portfolio Website](#)  
+- ✅ [To-Do List App](#)  
+- 🚗 [RoadShield (Accident Detection System)](#)  
+- 🎨 [Responsive Image Gallery](#)
+
+---
+
+### 📊 GitHub Stats
+![Isha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishamishra14&show_icons=true&theme=tokyonight)
+
+---
+
+### 📫 Connect with Me
+[LinkedIn](www.linkedin.com/in/ishamishra14) |
