@@ -26,4 +26,4 @@ HTML • CSS • JavaScript • Canva • Figma • Adobe • Git • C++
 ---
 
 ### 📫 Connect with Me
-[LinkedIn](www.linkedin.com/in/ishamishra14) |
+[www.linkedin.com/in/ishamishra14](www.linkedin.com/in/ishamishra14) |
